@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yusif Tijani
-- 👀 I’m interested in coding and all things Apple
-- 🌱 I’m currently learning SwiftUI and UIKit 
-- 💞️ I’m looking to collaborate on Swift and iOS projects
+- 👀 I’m interested in coding, all things Apple, Marvel Cinematic Universe and Anime
+- 🌱 I’m currently learning SwiftUI and UIKit
+- 💞️ I’m looking to collaborate on any intersting Swift, SwiftUI and iOS projects
 - 📫 How to reach me yusiftijani@icloud.com
 
 <!---
