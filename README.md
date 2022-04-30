@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @greynoodle
+- 👋 Hi, I’m @Yusif Tijani
 - 👀 I’m interested in coding and all things Apple
 - 🌱 I’m currently learning SwiftUI and UIKit 
 - 💞️ I’m looking to collaborate on Swift and iOS projects
